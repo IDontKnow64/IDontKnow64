@@ -4,4 +4,4 @@
 
 # Featured Projects
 
-[Sprout](https://github.com/Cotaroy/Sprout)
+## [Sprout](https://github.com/Cotaroy/Sprout)
